@@ -90,7 +90,7 @@ h1.name span{color:var(--cyan)}
 .hero-links a .ico{font-size:.8rem;opacity:.7}
 .hero-headshot{flex-shrink:0;align-self:center}
 .hero-headshot img{
-  width:500px;height:500px;
+  width:400px;height:400px;
   object-fit:cover;object-position:center top;
   border:2px solid var(--border);
   outline:1px solid var(--cyan);
